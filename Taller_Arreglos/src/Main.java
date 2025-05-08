@@ -1,10 +1,8 @@
 //SOFIA MARTINEZ - MIKAELA UVIDIA - AMELIA YANEZ
-
 public class Main {
     public static void main(String[] args)
 
     {
-
         int lluvia_acumulada_UIO=0;
         int lluvia_acumulada_GYE=0;
         int lluvia_acumulada_CCA=0;
